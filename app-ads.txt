@@ -1,0 +1,4 @@
+# app-ads.txt for apps by Neckos Studio.
+# After opening the AdMob account, uncomment the line below and put your
+# publisher ID in place of pub-0000000000000000 (AdMob > Settings > Account information).
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
